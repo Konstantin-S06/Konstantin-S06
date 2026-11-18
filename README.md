@@ -2,7 +2,9 @@
 
 CS co-op student at the University of Toronto (B.Sc., graduating 2028). I build full-stack applications and AI systems, mostly in Python, TypeScript, and C++.
 
-Portfolio: [https://konstantin-s06.github.io/personal-portfolio/index.html] | LinkedIn: [https://www.linkedin.com/in/konstantin-shtop/] | Email: [konstantin.shtop@gmail.com]
+Portfolio: https://konstantin-s06.github.io/personal-portfolio/index.html
+LinkedIn: https://www.linkedin.com/in/konstantin-shtop/
+Email: konstantin.shtop@gmail.com
 
 ## Currently
 
